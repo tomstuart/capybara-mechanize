@@ -19,6 +19,7 @@ Capybara::SpecHelper.run_specs TestSessions::Mechanize, 'Mechanize', capybara_sk
   css
   download
   shadow_dom
+  spatial
 ]
 
 describe Capybara::Session do
